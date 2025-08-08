@@ -1,6 +1,6 @@
-![Aditya Kanoi Banner](https://drive.google.com/file/d/1zILc3MYHMbhcXczXwy3kSk4IvYz3Ykpd/view?usp=drive_link)
+![Andres Trotti Banner](https://drive.google.com/file/d/1zILc3MYHMbhcXczXwy3kSk4IvYz3Ykpd/view?usp=drive_link)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Andres Trotti</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
